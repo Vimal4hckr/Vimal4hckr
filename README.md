@@ -112,72 +112,108 @@
 
 <h2>💼 Featured Projects</h2>
 
+<h2>🚀 Featured Projects</h2>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/Vimal4hckr/1.portfolio">Cinematic Portfolio</a></h3>
-      <p>A modern personal portfolio featuring smooth scrolling, animated interactions, and a cinematic visual design.</p>
+      <h3>📡 PulseBoard</h3>
+      <p>AI-powered operations dashboard for real-time metrics, anomaly detection, and intelligent alerts.</p>
       <p>
-        <code>React</code>
-        <code>TypeScript</code>
-        <code>Vite</code>
-        <code>Tailwind CSS</code>
-        <code>Framer Motion</code>
+        <code>React</code> <code>FastAPI</code>
+        <code>WebSockets</code> <code>Python</code>
+        <code>PostgreSQL</code>
       </p>
-      <ul>
-        <li>✔ Responsive portfolio with interactive animations</li>
-        <li>✔ <a href="https://1-portfolio.vimalg454.workers.dev/">Live Demo</a></li>
-        <li>✔ <a href="https://github.com/Vimal4hckr/1.portfolio">View Source Code</a></li>
-      </ul>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/Vimal4hckr/Mcq-s-for-programming-languages">Programming Language MCQs</a></h3>
-      <p>A collection of multiple-choice questions for practising programming concepts, preparing for assessments, and strengthening technical fundamentals.</p>
+      <h3>📊 Business Analytics Dashboard</h3>
+      <p>Interactive dashboard for revenue, orders, customers, sales trends, and business KPIs.</p>
       <p>
-        <code>HTML</code>
-        <code>CSS</code>
-        <code>JavaScript</code>
-        <code>Java</code>
-        <code>C++</code>
-        <code>Markdown</code>
+        <code>React</code> <code>FastAPI</code>
+        <code>PostgreSQL</code> <code>Recharts</code>
       </p>
-      <ul>
-        <li>✔ Organized question banks for multiple subjects</li>
-        <li>✔ Useful for students, educators, and interview preparation</li>
-        <li>✔ <a href="https://github.com/Vimal4hckr/Mcq-s-for-programming-languages">Explore Question Banks</a></li>
-      </ul>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Vimal4hckr/leetcode_solutions-">LeetCode Solutions</a></h3>
-      <p>A collection of coding challenge solutions focused on algorithmic thinking, data structures, and practical problem-solving.</p>
+      <h3>📈 Market Intelligence Dashboard</h3>
+      <p>Market monitoring, watchlists, price history, portfolio tracking, and news sentiment.</p>
       <p>
-        <code>Data Structures</code>
-        <code>Algorithms</code>
-        <code>Problem Solving</code>
+        <code>React</code> <code>Python</code>
+        <code>FastAPI</code> <code>WebSockets</code>
       </p>
-      <ul>
-        <li>✔ Solutions available in a dedicated answers folder</li>
-        <li>✔ Practice for coding assessments and technical interviews</li>
-        <li>✔ <a href="https://github.com/Vimal4hckr/leetcode_solutions-/tree/main/leetcode%20answers">Browse Solutions</a></li>
-      </ul>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>👨‍🏫 <a href="https://github.com/Vimal4hckr?tab=repositories">Programming Learning Resources</a></h3>
-      <p>Explore my GitHub repositories for programming exercises, beginner-friendly learning materials, and hands-on coding practice.</p>
+      <h3>🌡️ Smart IoT Monitor</h3>
+      <p>Sensor monitoring dashboard with live telemetry, equipment status, and threshold alerts.</p>
       <p>
-        <code>C</code>
-        <code>Java</code>
-        <code>Python</code>
-        <code>Programming Fundamentals</code>
+        <code>Python</code> <code>MQTT</code>
+        <code>FastAPI</code> <code>React</code>
       </p>
-      <ul>
-        <li>✔ Resources for students and programming beginners</li>
-        <li>✔ Learning through exercises and practical projects</li>
-        <li>✔ <a href="https://github.com/Vimal4hckr?tab=repositories">Explore All Repositories</a></li>
-      </ul>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Analytics</h3>
+      <p>Student performance dashboard for attendance, quiz results, topic mastery, and progress.</p>
+      <p>
+        <code>React</code> <code>Python</code>
+        <code>PostgreSQL</code> <code>Pandas</code>
+      </p>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 DocuMind AI</h3>
+      <p>Ask questions about PDFs and receive AI-generated answers grounded in document passages.</p>
+      <p>
+        <code>Python</code> <code>FastAPI</code>
+        <code>LLM</code> <code>Vector Search</code>
+      </p>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 CareerLens AI</h3>
+      <p>Resume and job-description matching with skill-gap analysis and career suggestions.</p>
+      <p>
+        <code>React</code> <code>Python</code>
+        <code>NLP</code> <code>FastAPI</code>
+      </p>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎧 SupportIQ</h3>
+      <p>AI-assisted support ticket classification, priority suggestions, and service analytics.</p>
+      <p>
+        <code>React</code> <code>Python</code>
+        <code>NLP</code> <code>PostgreSQL</code>
+      </p>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔮 ForecastIQ</h3>
+      <p>AI sales forecasting with historical trends, prediction comparisons, and error metrics.</p>
+      <p>
+        <code>Python</code> <code>scikit-learn</code>
+        <code>Pandas</code> <code>Plotly</code>
+      </p>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 LLMOps Monitor</h3>
+      <p>AI model monitoring for latency, token usage, estimated costs, request failures, and alerts.</p>
+      <p>
+        <code>Next.js</code> <code>FastAPI</code>
+        <code>PostgreSQL</code> <code>Docker</code>
+      </p>
+      <p>🔗 <a href="https://github.com/Vimal4hckr?tab=repositories">Repository — add when created</a></p>
     </td>
   </tr>
 </table>
