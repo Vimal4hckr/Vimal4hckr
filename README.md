@@ -1,70 +1,104 @@
-<p align="center">
-  <a href="https://github.com/Vimal4hckr">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Vimal" alt="Hello! I&#39;m Vimal" />
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vimal%20R&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20Technical%20Trainer%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=16" width="100%" alt="Vimal R profile banner" />
+
+<a href="https://github.com/Vimal4hckr"><img src="https://img.shields.io/badge/GitHub-Vimal4hckr-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://github.com/Vimal4hckr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-2ea043?style=for-the-badge&logo=github" alt="Repositories" /></a>
+<a href="mailto:vimalg454@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+Learn • Build • Teach • Keep Improving
+</div>
+
+👨‍💻 About Me
+Hello! I'm Vimal, a software developer and technical trainer who enjoys building useful applications and making programming easier to learn.
+- 💻 Interested in full-stack development, software engineering, and solving practical problems.
+- 👨‍🏫 Creating programming learning materials, coding exercises, and hands-on project experiences.
+- 🤖 Exploring AI/ML and Python-based applications.
+- 🧠 Practicing programming fundamentals, algorithms, data structures, and clean code.
+- 🚀 Building projects that connect concepts with real-world use cases.
+- 🌱 Always learning new tools, improving workflows, and sharing my work on GitHub.
+“Build projects that solve problems, and explain what you learn so others can build too.”
+
+⚡ Tech Stack
+Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" alt="C, C++, Java, Python, JavaScript, HTML and CSS" />
 </p>
 
-### 🚀 About Me
+Frontend, Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask" alt="React, Node.js, Express, Django and Flask" />
+</p>
 
-💻 Software Developer in Progress  
- Learning • Building • Exploring  
-Open Source Enthusiast
+Databases, Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vscode,postman,vercel,netlify,docker" alt="MySQL, PostgreSQL, MongoDB, Firebase, Git, GitHub, VS Code, Postman, Vercel, Netlify and Docker" />
+</p>
 
-🔭 &nbsp;I'm currently working on **Edu-tech/Full Stack**
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+AI & Data
+<p>
+  <img src="https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python projects" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### 🔗 Connect With Me
+🧭 What I Work On
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Applications</h3>
+      Web interfaces, backend APIs, user authentication, database integration, dashboards, and deployment workflows.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Machine Learning</h3>
+      Python-based experiments and applications, including image classification and practical automation ideas.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 Real-World Projects</h3>
+      Billing and verification workflows, management systems, productivity tools, and student-focused software projects.
+    </td>
+    <td width="50%" valign="top">
+      <h3>👨‍🏫 Programming Education</h3>
+      Lesson plans, roadmaps, practice problems, MCQs, and beginner-friendly explanations for programming topics.
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/vimal-r-74b74325b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/vimalg45"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:vimalg454@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+🚀 Projects & Learning
+A few areas represented in my project work and ongoing practice:
+Area	What I'm exploring
+Web Development	Full-stack apps, responsive UI, APIs, authentication, and deployment
+Python & AI/ML	Image-based classification and machine-learning workflows
+Billing Systems	Digital bills, QR-code verification, and database-backed workflows
+Programming Practice	C, C++, Java, algorithms, data structures, and problem-solving
+Education Tools	Programming resources and collaborative student projects
+
+
+🔎 Browse my repositories: github.com/Vimal4hckr?tab=repositories
+📈 GitHub Analytics
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vimal4hckr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vimal's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal4hckr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vimal4hckr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vimal4hckr&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
+
+🤝 Connect With Me
+<p>
+  <a href="https://github.com/Vimal4hckr"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://instagram.com/vimalg45"><img src="https://img.shields.io/badge/Instagram-vimalg45-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:vimalg454@gmail.com"><img src="https://img.shields.io/badge/Email-vimalg454%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Vimal4hckr&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <i>Thanks for visiting my profile. Explore the repositories, share feedback, and let's keep building! ⭐</i>
 </p>
-
-### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Vimal4hckr&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer banner" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Vimal4hckr">Vimal4hckr</a></i></p>
