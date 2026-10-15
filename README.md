@@ -47,7 +47,7 @@
 - 🌱 Continuously learning through hands-on projects and problem-solving.
 
       <blockquote>
-        <li>Build with curiosity. Learn by doing. Share what you learn.</li>
+        <i>Build with curiosity. Learn by doing. Share what you learn.</i>
       </blockquote>
 
     </td>
