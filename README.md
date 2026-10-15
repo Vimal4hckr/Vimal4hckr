@@ -110,14 +110,77 @@
   </tr>
 </table>
 
-## 🧰 Tools I Use and Explore
+<h2>💼 Featured Projects</h2>
 
-- **Programming:** C, C++, Java, Python, JavaScript
-- **Web:** HTML, CSS, React, Node.js, Express
-- **Backend / Frameworks:** Django, Flask
-- **Databases:** MySQL, MongoDB, Firebase
-- **Developer tools:** Git, GitHub, VS Code, Postman
-- **AI/ML:** Python and TensorFlow-based learning projects
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/Vimal4hckr/1.portfolio">Cinematic Portfolio</a></h3>
+      <p>A modern personal portfolio featuring smooth scrolling, animated interactions, and a cinematic visual design.</p>
+      <p>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Vite</code>
+        <code>Tailwind CSS</code>
+        <code>Framer Motion</code>
+      </p>
+      <ul>
+        <li>✔ Responsive portfolio with interactive animations</li>
+        <li>✔ <a href="https://1-portfolio.vimalg454.workers.dev/">Live Demo</a></li>
+        <li>✔ <a href="https://github.com/Vimal4hckr/1.portfolio">View Source Code</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/Vimal4hckr/Mcq-s-for-programming-languages">Programming Language MCQs</a></h3>
+      <p>A collection of multiple-choice questions for practising programming concepts, preparing for assessments, and strengthening technical fundamentals.</p>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+        <code>Java</code>
+        <code>C++</code>
+        <code>Markdown</code>
+      </p>
+      <ul>
+        <li>✔ Organized question banks for multiple subjects</li>
+        <li>✔ Useful for students, educators, and interview preparation</li>
+        <li>✔ <a href="https://github.com/Vimal4hckr/Mcq-s-for-programming-languages">Explore Question Banks</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/Vimal4hckr/leetcode_solutions-">LeetCode Solutions</a></h3>
+      <p>A collection of coding challenge solutions focused on algorithmic thinking, data structures, and practical problem-solving.</p>
+      <p>
+        <code>Data Structures</code>
+        <code>Algorithms</code>
+        <code>Problem Solving</code>
+      </p>
+      <ul>
+        <li>✔ Solutions available in a dedicated answers folder</li>
+        <li>✔ Practice for coding assessments and technical interviews</li>
+        <li>✔ <a href="https://github.com/Vimal4hckr/leetcode_solutions-/tree/main/leetcode%20answers">Browse Solutions</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👨‍🏫 <a href="https://github.com/Vimal4hckr?tab=repositories">Programming Learning Resources</a></h3>
+      <p>Explore my GitHub repositories for programming exercises, beginner-friendly learning materials, and hands-on coding practice.</p>
+      <p>
+        <code>C</code>
+        <code>Java</code>
+        <code>Python</code>
+        <code>Programming Fundamentals</code>
+      </p>
+      <ul>
+        <li>✔ Resources for students and programming beginners</li>
+        <li>✔ Learning through exercises and practical projects</li>
+        <li>✔ <a href="https://github.com/Vimal4hckr?tab=repositories">Explore All Repositories</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Analytics
 
