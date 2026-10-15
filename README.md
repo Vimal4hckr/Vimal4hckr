@@ -64,7 +64,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,django,flask,mysql,mongodb,firebase,git,github,vscode,postman,docker" alt="Technology stack"/>
 </p>
 
-```html
 <!-- SKILLS SHOWCASE -->
 <h2>⚡ Tech Stack &amp; Engineering Arsenal</h2>
 
@@ -119,7 +118,7 @@
     </td>
   </tr>
 </table>
-```
+
 ## 🧰 Tools I Use and Explore
 
 - **Programming:** C, C++, Java, Python, JavaScript
