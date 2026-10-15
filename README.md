@@ -73,46 +73,37 @@
       <h3>💻 Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming languages"/>
       <br/><br/>
-
       <h3>🎨 Frontend Development</h3>
       <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend technologies"/>
       <br/><br/>
-
       <h3>⚙️ Backend Development</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" alt="Backend technologies"/>
       <br/><br/>
-
       <h3>🗄️ Databases &amp; Storage</h3>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases"/>
       <br/><br/>
-
       <h3>🧰 Developer Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools"/>
     </td>
-
     <td width="50%" valign="top">
       <h3>🤖 AI &amp; Machine Learning</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/>
         <br/>
-        Python-based AI/ML exploration • Model experimentation • Data-driven applications
+       Python-based AI/ML exploration • Model experimentation • Data-driven applications
       </p>
       <br/>
-
       <h3>🌐 Web Technologies</h3>
       <p>HTML5 • CSS3 • JavaScript • Responsive Web Design • React • REST API Integration</p>
       <br/>
-
       <h3>🛠️ Software Engineering</h3>
       <p>Problem Solving • Data Structures &amp; Algorithms • Debugging • Code Organization • Version Control • Project-Based Learning</p>
       <br/>
-
       <h3>☁️ Development Workflow</h3>
       <img src="https://skillicons.dev/icons?i=docker,linux" alt="Docker and Linux"/>
       <p>Exploring containerization, command-line workflows, and deployment fundamentals.</p>
       <br/>
-
       <h3>👨‍🏫 Technical Training</h3>
       <p>C Programming • Beginner-Friendly Coding Exercises • Programming Fundamentals • Lesson Planning • Technical Documentation</p>
     </td>
