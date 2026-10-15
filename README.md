@@ -36,9 +36,9 @@
 
 ## 🚀 About Me
 
-<table width="100%" border="0">
+<table width="100%">
   <tr>
-    <td width="45%" valign="middle">
+    <td width="52%" valign="top">
 
 - 💻 Interested in **full-stack development**, backend development, and practical software engineering.
 - 👨‍🏫 Preparing programming lessons, coding exercises, and beginner-friendly technical learning resources.
@@ -46,16 +46,14 @@
 - 🧩 Building projects involving web apps, databases, dashboards, and automation.
 - 🌱 Continuously learning through hands-on projects and problem-solving.
 
-      <blockquote>
-        <i>Build with curiosity. Learn by doing. Share what you learn.</i>
-      </blockquote>
+> "Build with curiosity. Learn by doing. Share what you learn."
 
     </td>
-    <td width="55%" align="center" valign="middle">
+    <td width="48%" valign="middle" align="center">
       <img
-        src="./assets/Create_a_6second_premium_cinematic_looping_a.gif"
-        width="100%"
+        src="https://raw.githubusercontent.com/Vimal4hckr/Vimal4hckr/main/assets/Create_a_6second_premium_cinematic_looping_a.gif"
         alt="Looping coding animation"
+        width="100%"
       />
     </td>
   </tr>
