@@ -64,39 +64,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,django,flask,mysql,mongodb,firebase,git,github,vscode,postman,docker" alt="Technology stack"/>
 </p>
 
-## 💼 Project Interests
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌐 Full-Stack Development
-Responsive interfaces, backend APIs, authentication, database integration, dashboards, and deployment.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-Python-based experiments, image classification, and practical machine-learning workflows.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧾 Practical Applications
-Billing and QR-verification workflows, management systems, and student-focused applications.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 👨‍🏫 Programming Education
-Lesson plans, programming roadmaps, MCQs, coding exercises, and beginner-friendly explanations.
-
-    </td>
-  </tr>
-</table>
-
 ## 🧰 Tools I Use and Explore
 
 - **Programming:** C, C++, Java, Python, JavaScript
