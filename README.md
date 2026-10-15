@@ -1,7 +1,16 @@
 <table>
   <tr>
-    <td valign="top"><img src="terminal-card.svg" alt="ASCII Portrait" width="540"/></td>
-    <td valign="top"><img src="info-card.svg" alt="Info Card" width="400"/></td>
+    <td align="center" valign="middle" width="40%">
+      <img
+        src="vimal-profile.jpg"
+        alt="Vimal R - Profile Photo"
+        width="300"
+        style="border-radius: 15px;"
+      />
+    </td>
+    <td valign="middle" width="60%">
+      <img src="info-card.svg" alt="Profile Information Card" width="400"/>
+    </td>
   </tr>
 </table>
 
