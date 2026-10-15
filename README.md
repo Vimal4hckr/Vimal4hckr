@@ -218,6 +218,106 @@
   </tr>
 </table>
 
+## 🚀 Engineering Experience
+
+I focus on building practical software solutions that combine **clean code, responsive user experiences, efficient problem-solving, and modern development tools**. My engineering journey spans frontend development, application architecture, programming fundamentals, and exploring AI-powered applications and data-driven dashboards.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Development</h3>
+      <ul>
+        <li>Building responsive, modern web interfaces</li>
+        <li>Developing reusable UI components</li>
+        <li>Working with React and TypeScript</li>
+        <li>Creating structured applications with Vite</li>
+        <li>Implementing responsive layouts with Tailwind CSS</li>
+        <li>Enhancing interactions with Framer Motion</li>
+        <li>Improving navigation and user experience</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Software Engineering</h3>
+      <ul>
+        <li>Writing readable and maintainable code</li>
+        <li>Breaking complex problems into smaller modules</li>
+        <li>Applying programming fundamentals and data structures</li>
+        <li>Understanding time and space complexity</li>
+        <li>Practicing debugging and error handling</li>
+        <li>Using modular design and reusable functions</li>
+        <li>Improving code quality through iterative development</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Real-Time Dashboards & Data Visualization</h3>
+      <ul>
+        <li>Exploring interactive analytics dashboard development</li>
+        <li>Organizing data into readable visual summaries</li>
+        <li>Designing KPI cards, charts, and reporting interfaces</li>
+        <li>Exploring real-time data updates and event-driven UI patterns</li>
+        <li>Planning monitoring views for system health and performance</li>
+        <li>Focusing on actionable insights and clear information hierarchy</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Intelligent Applications</h3>
+      <ul>
+        <li>Exploring AI-powered application workflows</li>
+        <li>Learning how to integrate language-model APIs</li>
+        <li>Investigating document question-answering systems</li>
+        <li>Exploring resume analysis and intelligent search</li>
+        <li>Understanding prompt design and structured AI outputs</li>
+        <li>Considering reliability, privacy, and error handling in AI features</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Developer Tools & Workflow</h3>
+      <ul>
+        <li>Version control with Git and GitHub</li>
+        <li>Development and debugging with Visual Studio Code</li>
+        <li>Frontend tooling with Vite and modern JavaScript tools</li>
+        <li>Code quality checks and linting</li>
+        <li>Repository organization and documentation</li>
+        <li>Learning deployment and continuous integration workflows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 UI Engineering & Performance</h3>
+      <ul>
+        <li>Creating clean, consistent visual layouts</li>
+        <li>Building accessible, responsive interfaces</li>
+        <li>Designing focused navigation and content hierarchy</li>
+        <li>Using animation to support—not distract from—usability</li>
+        <li>Optimizing frontend loading and rendering where needed</li>
+        <li>Maintaining consistency across desktop and mobile screens</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🧠 Engineering Principles
+
+- **Problem-solving first:** Understand the problem before choosing an implementation.
+- **Maintainability:** Prefer readable, modular code over unnecessary complexity.
+- **User-centered design:** Build interfaces that are useful, intuitive, and responsive.
+- **Continuous improvement:** Refine code through testing, debugging, and feedback.
+- **Responsible AI:** Consider accuracy, privacy, transparency, and failure handling.
+- **Practical learning:** Strengthen concepts by building projects and documenting what I learn.
+
+### 🎯 Current Engineering Focus
+
+- Building polished full-stack portfolio projects
+- Developing interactive analytics and monitoring dashboards
+- Exploring AI-powered tools and document intelligence
+- Strengthening data structures, algorithms, and software design
+- Improving deployment, testing, and developer workflows
+
+> *My goal is to turn ideas into reliable, useful software through continuous learning, thoughtful engineering, and hands-on project development.*
+
 ## 📊 GitHub Analytics
 
 <p align="center">
