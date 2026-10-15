@@ -50,7 +50,6 @@
 
     </td>
     <td width="48%" valign="middle" align="center">
-      ```html
 <img src="https://raw.githubusercontent.com/Vimal4hckr/Vimal4hckr/main/assets/coding-image.jpg"
   alt="My coding image"
   width="450"
