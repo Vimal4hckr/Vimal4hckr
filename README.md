@@ -50,9 +50,13 @@
 
     </td>
     <td width="48%" valign="middle" align="center">
-      <a href="https://raw.githubusercontent.com/Vimal4hckr/Vimal4hckr/main/assets/Create_a_6second_premium_cinematic_looping_a.mp4"alt="Coding animation"
-  width="450">
-        <a/>
+      <a href="https://github.com/Vimal4hckr/Vimal4hckr/blob/main/assets/coding-video.mp4">
+  <img
+    src="https://YOUR-THUMBNAIL-IMAGE-URL.jpg](https://github.com/Vimal4hckr/Vimal4hckr/blob/main/assets/coding-video.mp4)"
+    alt="Watch my coding video"
+    width="450"
+  />
+</a>
     </td>
   </tr>
 </table>
