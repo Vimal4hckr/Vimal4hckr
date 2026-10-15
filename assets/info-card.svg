@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="590" viewBox="0 0 650 590">
+<rect x="1" y="1" width="648" height="588" rx="16" fill="#0d1420" stroke="#2d3748" stroke-width="2"/>
+<path d="M1 18 Q1 1 18 1 H632 Q649 1 649 18 V42 H1Z" fill="#151e2b"/>
+<text x="325" y="26" text-anchor="middle" font-family="monospace" font-size="12" fill="#8da2bd">vimal@github:~ $ neofetch</text>
+<text x="22" y="70" font-family="monospace" font-size="17" font-weight="bold" fill="#00d68f">Vimal4hckr</text>
+<text x="130" y="70" font-family="monospace" font-size="17" fill="#00cfe8">@ github</text>
+<line x1="22" y1="88" x2="628" y2="88" stroke="#293647"/>
+<g font-family="monospace" font-size="13">
+<text x="22" y="119" fill="#ff9f43" font-weight="bold">Role</text><text x="160" y="119" fill="#d9e4f2">Software Developer / Technical Trainer</text>
+<text x="22" y="145" fill="#ff9f43" font-weight="bold">Focus</text><text x="160" y="145" fill="#d9e4f2">Full-stack apps • AI/ML projects</text>
+<text x="22" y="171" fill="#ff9f43" font-weight="bold">Interests</text><text x="160" y="171" fill="#d9e4f2">Programming • Teaching • Problem-solving</text>
+</g>
+<line x1="22" y1="194" x2="628" y2="194" stroke="#293647"/>
+<text x="22" y="222" font-family="monospace" font-size="14" font-weight="bold" fill="#53a6ff">— Stack</text>
+<g font-family="monospace" font-size="13">
+<text x="22" y="250" fill="#ff9f43" font-weight="bold">Languages</text><text x="160" y="250" fill="#d9e4f2">C, C++, Java, Python, JavaScript</text>
+<text x="22" y="276" fill="#ff9f43" font-weight="bold">Frontend</text><text x="160" y="276" fill="#d9e4f2">HTML, CSS, React</text>
+<text x="22" y="302" fill="#ff9f43" font-weight="bold">Backend</text><text x="160" y="302" fill="#d9e4f2">Node.js, Express, Django, Flask</text>
+<text x="22" y="328" fill="#ff9f43" font-weight="bold">Database</text><text x="160" y="328" fill="#d9e4f2">MySQL, MongoDB, Firebase</text>
+<text x="22" y="354" fill="#ff9f43" font-weight="bold">Tools</text><text x="160" y="354" fill="#d9e4f2">Git, GitHub, VS Code, Postman</text>
+<text x="22" y="380" fill="#ff9f43" font-weight="bold">AI / ML</text><text x="160" y="380" fill="#d9e4f2">Python, TensorFlow, ML workflows</text>
+</g>
+<line x1="22" y1="402" x2="628" y2="402" stroke="#293647"/>
+<text x="22" y="430" font-family="monospace" font-size="14" font-weight="bold" fill="#53a6ff">— Highlights</text>
+<g font-family="monospace" font-size="12.5" fill="#d9e4f2">
+<circle cx="29" cy="454" r="3" fill="#00d68f"/><text x="42" y="458">Building full-stack and Python projects</text>
+<circle cx="29" cy="479" r="3" fill="#00d68f"/><text x="42" y="483">Preparing coding lessons and practice material</text>
+<circle cx="29" cy="504" r="3" fill="#00d68f"/><text x="42" y="508">Exploring AI/ML and practical automation</text>
+</g>
+<text x="22" y="558" font-family="monospace" font-size="12" fill="#00d68f">$ echo "Always learning..."</text>
+<text x="22" y="578" font-family="monospace" font-size="11" fill="#73849a">profile_info.txt • Vimal4hckr</text>
+</svg>
