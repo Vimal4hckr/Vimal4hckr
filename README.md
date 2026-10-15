@@ -46,7 +46,7 @@
 - 🧩 Building projects involving web apps, databases, dashboards, and automation.
 - 🌱 Continuously learning through hands-on projects and problem-solving.
 
-> "Build with curiosity. Learn by doing. Share what you learn."
+    > "Build with curiosity. Learn by doing. Share what you learn."
 
     </td>
     <td width="48%" valign="middle" align="center">
