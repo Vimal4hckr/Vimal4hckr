@@ -50,14 +50,14 @@
 
     </td>
     <td width="48%" valign="middle" align="center">
-      <video autoplay muted loop playsinline controls width="450">
-  <source src="assets/coding-video.mp4" type="video/mp4">
-  Your browser does not support video playback.
-</video>
+      ```html
+<img src="https://raw.githubusercontent.com/Vimal4hckr/Vimal4hckr/main/assets/coding-image.jpg"
+  alt="My coding image"
+  width="450"
+/>
     </td>
   </tr>
 </table>
-
 
 ## ⚡ Tech Stack
 
