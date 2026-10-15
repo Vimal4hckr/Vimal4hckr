@@ -50,7 +50,7 @@
 
     </td>
     <td width="48%" valign="middle" align="center">
-      <img src="https://github.com/Vimal4hckr/Vimal4hckr/blob/main/assets/Create_a_6second_premium_cinematic_looping_a.gif/ alt="Coding animation"width="450">
+      <img src="https://github.com/Vimal4hckr/Vimal4hckr/blob/main/assets/Create_a_6second_premium_cinematic_looping_a.gif" alt="Coding animation"width="450">
     </td>
   </tr>
 </table>
